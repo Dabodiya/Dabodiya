@@ -1,5 +1,5 @@
 # 💫 About Me:
-📊 Data Analytics professional with 1.5+ years of experience, passionate about data-driven decision making and telling meaningful stories through data.<br><br>🛠️ Skills Snapshot : <br>🔍 Data & BI: SQL, BigQuery, Power BI, Metabase<br>📊 Excel: VLOOKUP, XLOOKUP, Macros<br>🐍 Programming: Python, Core Java, C#, C<br>⚙️ Framework: .NET Core<br>🌐 Web: HTML, CSS, Bootstrap, JavaScript, jQuery, AJAX<br>🧩 Tools: Jira, Visual Studio<br>🎯 Focus: 🚀Turning raw data into clear insights that drive business impact.
+Aspiring Software Developer with 1.5+ years of experience, passionate about building reliable applications, solving technical problems, and developing efficient software solutions.<br><br>🛠️ <strong>Skills Snapshot:</strong><br>💻 Programming: C#, Core Java, C, Python, SQL<br>⚙️ Framework: .NET Core, ASP.NET Core<br>🌐 Web: HTML, CSS, Bootstrap, JavaScript, jQuery, AJAX<br>🗄️ Database: SQL Server, BigQuery<br>📊 Data & BI: Power BI, Metabase, Excel<br>🧩 Tools: Jira, Visual Studio, Git, GitHub<br>🎯 Focus: 🚀 Building scalable, user-friendly applications and continuously improving software development skills.
 
 
 ## 🌐 Socials:
